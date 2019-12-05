@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+These are some of my **Programming skills**
+1. *Logic
+2. _Attention to Detail_
+3. *Abstract Thinking
+4. **Patience**
